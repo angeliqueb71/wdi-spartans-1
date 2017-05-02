@@ -5,11 +5,14 @@ Color: <%= @colors[1] %>
 <ul>
   <% @users.each do |u| %>
     <li>
+      <!-- displays user email address -->
+      <strong>Email</strong>: <%= u.email %><br />
+
       <!-- displays user first name -->
-      <strong>Fname</strong>: <%= u.fname %>
+      <strong>Fname</strong>: <%= u.fname %><br />
 
       <!-- displays user last name -->
-      <strong>Lname</strong>: <%= u.lname %>
+      <strong>Lname</strong>: <%= u.lname %><br />
 
       <!-- diplays a link to the users show page -->
       <!--
@@ -18,6 +21,7 @@ Color: <%= @colors[1] %>
           which corresponds to the the UsersController, show action
       -->
       <%= link_to("Show", user_path(u)) %>
+      <%= link_to("Edit", edit_user_path(u)) %>
       <%= link_to("Delete", user_path(u), method: :delete) %>
     </li>
   <% end %>

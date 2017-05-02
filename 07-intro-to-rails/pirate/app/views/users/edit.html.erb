@@ -1,7 +1,25 @@
+<%= render "errors" %>
+
 <%= form_for @user do |form| %>
+  <%= form.label :email %>
+  <%= form.text_field :email %>
+  <%= form.label :password %>
+  <%= form.password_field :password %>
   <%= form.label :fname %>
   <%= form.text_field :fname %>
   <%= form.label :lname %>
   <%= form.text_field :lname %>
   <%= form.submit %>
 <% end %>
+
+<!--
+  The code above will generate the following code
+
+  <form method="PUT" action="/users/:id">
+    <label for="title">User Fname</label>
+    <input type="text" name="user[title]">
+    <label for="text">User Lname</label>
+    <input type="password" name="user[text]">
+    <input type="submit">
+  </form>
+-->

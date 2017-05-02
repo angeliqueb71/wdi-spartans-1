@@ -3,10 +3,18 @@ Rails.application.routes.draw do
 
   # when going to the landing page
   #   it will route to the HomeController, index action
-  get "/" => "home#index"
+  root to: "home#index"
+  get "/sign-in" => "sessions#sign_in_form", as: "sign_in"
+  post "/sign-in" => "sessions#sign_in"
+  delete "/sign-out" => "sessions#sign_out", as: "sign_out"
+  # get "/search-response" => "search#response"
 
   # this command...
   resources :users
+
+  resources :posts do
+    resources :comments, only: [:index, :show]
+  end
 
   # will generate the following routes for you
   # get "/users" => "users#index"
