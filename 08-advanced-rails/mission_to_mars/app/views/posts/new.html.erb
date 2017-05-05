@@ -1,0 +1,12 @@
+<h1>Post#new</h1>
+
+<%= form_for @post, remote: true do |form| %>
+  <%= form.text_area :content %>
+  <%= form.submit %>
+<% end %>
+
+<div id="posts">
+  <% @posts.each do |post| %>
+    <p class="post_content"><%= post.id%> : <%= post.content%></p>
+  <% end %>
+</div>

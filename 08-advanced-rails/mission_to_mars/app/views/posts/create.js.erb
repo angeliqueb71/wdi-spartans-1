@@ -1,0 +1,6 @@
+var newParagraph = document.createElement("p")
+var paragraphsDiv = document.querySelector("#posts")
+
+newParagraph.innerHTML = "<%= j render('post').chomp.html_safe %>"
+
+document.querySelector("#posts").prepend(newParagraph)
