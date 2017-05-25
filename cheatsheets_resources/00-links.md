@@ -1,4 +1,5 @@
 ## Cheatsheets
+
 [Command Line Interface](https://gist.github.com/kangarang/c43f6c1e4eee7abf080abb21ea35d361)
 
 [Flexbox](https://gist.github.com/kangarang/24e1a05759610553cd399c09255d6286)
@@ -17,7 +18,9 @@
 
 [Reddit Saved](https://gist.github.com/kangarang/bdb1a4fd4641427b091bce323942f07b)
 
+
 ## JavaScript
+
 [MDN: getting started with JS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 
 [Codecademy JS](https://www.codecademy.com/learn/javascript)
@@ -28,10 +31,12 @@
 
 
 ## Command Line Interface
+
 [Command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
 
 ## Git
+
 [Customizing git](https://git-scm.com/book/be/v2/Customizing-Git-Git-Configuration)
 
 [Git guide](http://rogerdudler.github.io/git-guide/)
@@ -40,6 +45,7 @@
 
 
 ## HTML
+
 [Codecademy css html](https://www.codecademy.com/learn/web)
 
 [HTML cheat sheet](http://www.hostingreviewbox.com/wp-content/uploads/2016/02/html5-cheat-sheet-1.png)
@@ -47,7 +53,9 @@
 
 ## Styling
 
+
 ### Guides
+
 [Demo - web design in 4 min](http://jgthms.com/web-design-in-4-minutes/)
 
 [Learn layout - position](http://learnlayout.com/position.html)
@@ -66,7 +74,9 @@
 
 [MDN using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
+
 ### Colors
+
 [Coolors](https://coolors.co/)
 
 [Adobe color wheel](https://color.adobe.com/create/color-wheel/?base=2&rule=Triad&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.14028078466307542,0.7,0.15304770839244164,0.5225983290294072,0.40040112094725056,1,0.3004011209472506,1,0.31635863193718516,0.8,0.44769880395595385,0.16032089675780048,0.7,0.4110125901979021,0.17528078466307537&swatchOrder=0,1,2,3,4)
