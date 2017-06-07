@@ -18,6 +18,73 @@
 
 [Reddit Saved](https://gist.github.com/kangarang/bdb1a4fd4641427b091bce323942f07b)
 
+[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)
+
+---
+
+## Ruby / Ruby on Rails
+
+[Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
+
+[Active Record Migrations](http://edgeguides.rubyonrails.org/active_record_migrations.html)
+
+[Active Record Query Interface](http://guides.rubyonrails.org/active_record_querying.html)
+
+[Ruby on Rails Basics](http://guides.rubyonrails.org/index.html)
+
+[Orlando's Mini Rails Guide](https://github.com/orlandocaraballo/wdi-spartans/blob/master/07-intro-to-rails/rails_guide.md)
+
+[How Rails Sessions Work](http://www.justinweiss.com/articles/how-rails-sessions-work/)
+
+[Routing](http://guides.rubyonrails.org/routing.html)
+
+[Rails girls Devise](http://guides.railsgirls.com/devise)
+
+[Devise](https://github.com/plataformatec/devise)
+
+[Adding Custom Fields to Your Devise User Model in Rails 4](http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html)
+
+[Many-to-Many Relationships](http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association)
+
+[How to Disable Turbolinks in Rails 5](http://stackoverflow.com/questions/38649550/how-to-disable-turbolinks-in-rails-5)
+
+[Paperclip](https://github.com/thoughtbot/paperclip)
+
+[Strong Params](http://edgeapi.rubyonrails.org/classes/ActionController/StrongParameters.html)
+
+[Active Record Associations](http://api.rubyonrails.org/classes/ActiveRecord/Associations/CollectionProxy.html#method-i-3C-3C)
+
+[Active Record Associations -- Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/active-record-associations)
+
+[Rspec Testing](https://chrisherring.co/posts/testing-a-feature-with-rails-and-rspec-a-deep-dive)
+
+[Ruby Backend Performance](http://schneems.com/2017/05/17/ruby-backend-performance-getting-started-guide/)
+
+[Bundler Update](http://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html)
+
+[Sinatra Put and Delete Tip](http://mikeebert.tumblr.com/post/26877173686/quick-tip-using-put-and-delete-in-sinatra)
+
+---
+
+## Nicole's Links
+
+[The Only 4 Things on Linkedin That Matter](https://www.breakinto.tech/blog/2016/2/9/the-only-4-things-on-linkedin-that-matter)
+
+[Grammarly](https://www.grammarly.com/)
+
+[Awesome-readme](https://github.com/matiassingers/awesome-readme)
+
+[Linkedin Reference with link to example summaries](https://docs.google.com/a/nycda.com/document/d/1OULKi0hJWnKQV2iA4KmlgqSvHuxAGDZkS0O8tEAQGZQ/edit?usp=sharing)
+
+[Portfolio Example 1](https://stefanie-charles-portfolio.herokuapp.com/index.html)
+
+[Portfolio Example 2](http://lianaschapiro.com/#about)
+
+[Portfolio Example 3](http://www.colettemolleur.com/development.html)
+
+[Tool to create mockups](http://www.pixeden.com/psd-mock-up-templates/the-new-macbook-psd-mockup)
+
+---
 
 ## JavaScript
 
@@ -29,11 +96,13 @@
 
 [MDN Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 
+---
 
 ## Command Line Interface
 
 [Command line cheatsheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
+---
 
 ## Git
 
@@ -43,6 +112,7 @@
 
 [Generating ssh and adding it to ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
+---
 
 ## HTML
 
@@ -50,11 +120,9 @@
 
 [HTML cheat sheet](http://www.hostingreviewbox.com/wp-content/uploads/2016/02/html5-cheat-sheet-1.png)
 
+---
 
 ## Styling
-
-
-### Guides
 
 [Demo - web design in 4 min](http://jgthms.com/web-design-in-4-minutes/)
 
@@ -74,9 +142,6 @@
 
 [MDN using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
-
-### Colors
-
 [Coolors](https://coolors.co/)
 
 [Adobe color wheel](https://color.adobe.com/create/color-wheel/?base=2&rule=Triad&selected=4&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.14028078466307542,0.7,0.15304770839244164,0.5225983290294072,0.40040112094725056,1,0.3004011209472506,1,0.31635863193718516,0.8,0.44769880395595385,0.16032089675780048,0.7,0.4110125901979021,0.17528078466307537&swatchOrder=0,1,2,3,4)
@@ -84,3 +149,15 @@
 [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 [Colour lovers](http://www.colourlovers.com/palettes/most-loved/all-time/meta)
+
+---
+
+## Other Tools
+
+[Public APIs](https://github.com/toddmotto/public-apis)
+
+[PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+
+[JavaScript Visualizer](http://www.pythontutor.com/javascript.html#mode=edit)
+
+[Ruby Visualizer](http://www.pythontutor.com/ruby.html#mode=edit)
