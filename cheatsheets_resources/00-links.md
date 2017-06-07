@@ -22,6 +22,20 @@
 
 ---
 
+## Reading
+
+[CODE](https://smile.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+[Eloquent JavaScript](http://eloquentjavascript.net/)
+
+[Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/?__s=ndaszt6rjucf1ehmh8cs)
+
+[What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
+---
+
 ## Ruby / Ruby on Rails
 
 [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
@@ -64,6 +78,8 @@
 
 [Sinatra Put and Delete Tip](http://mikeebert.tumblr.com/post/26877173686/quick-tip-using-put-and-delete-in-sinatra)
 
+[Writing Software is Hard](https://m.signalvnoise.com/writing-software-is-hard-388d5e982ad9)
+
 ---
 
 ## Nicole's Links
@@ -95,6 +111,10 @@
 [MDN Grammar and Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
 
 [MDN Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
+
+[20 Ways to FizzBuzz](https://ditam.github.io/posts/fizzbuzz/)
+
+[Lodash](https://github.com/lodash/lodash/wiki/FP-Guide)
 
 ---
 
@@ -161,3 +181,4 @@
 [JavaScript Visualizer](http://www.pythontutor.com/javascript.html#mode=edit)
 
 [Ruby Visualizer](http://www.pythontutor.com/ruby.html#mode=edit)
+[DevDocs](http://devdocs.io/)
