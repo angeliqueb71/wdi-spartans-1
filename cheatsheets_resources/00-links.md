@@ -34,6 +34,10 @@
 
 [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
+[Leif's Article](https://medium.com/@leifthunder/why-we-love-mondays-f0b8066c83cb)
+
+[Roadmap to Becoming a Web Developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
+
 ---
 
 ## Ruby / Ruby on Rails
@@ -115,6 +119,8 @@
 [20 Ways to FizzBuzz](https://ditam.github.io/posts/fizzbuzz/)
 
 [Lodash](https://github.com/lodash/lodash/wiki/FP-Guide)
+
+[Javascript 30](https://javascript30.com/)
 
 ---
 
